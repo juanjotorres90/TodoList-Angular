@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    margin-bottom: 2rem;
+  }
+  
+  .form input[type='text'] {
+    flex: 10;
+    padding: 5px;
+  }
+  
+  .form input[type='submit'] {
+    flex: 2;
+    background: rgb(48, 0, 0);
+    border: 1px orange solid;
+  }
+  
